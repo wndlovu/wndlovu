@@ -1,4 +1,4 @@
-Hi! I'm Wayne (she/her) and I am an incoming Geology Master's student at the University of Kansas. I will be joining the [HEAL@KGS](https://www.samzipper.com/) lab where I will be doing hydrology research with Dr. Sam Zipper.
+Hi! I'm Wayne (she/her) and I am a Geology Master's student at the University of Kansas. I am part of the [HEAL@KGS](https://www.samzipper.com/) lab where I am using the AquaCrop-OSPy model to assess the effectiveness of self-governance groundwater management practices in Colorado and Kansas.
 
 -------------
 
